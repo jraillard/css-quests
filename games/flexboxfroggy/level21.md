@@ -22,3 +22,7 @@ Introducing the `align-content` property in order to **managed space between mul
 flex-wrap: wrap;
 align-content: flex-start;
 ```
+
+# Next step
+
+[Link to next level](./level22.md) :muscle:

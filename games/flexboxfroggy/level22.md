@@ -12,3 +12,7 @@ Still practicing the `align-content` property.
 flex-wrap: wrap;
 align-content: flex-end;
 ```
+
+# Next step
+
+[Link to next level](./level23.md) :muscle:

@@ -18,3 +18,7 @@ Introducing also the `justify-content` property in order to ***align items horiz
 ```css
 justify-content: flex-end;
 ```
+
+# Next step
+
+[Link to next level](./level2.md) :muscle:

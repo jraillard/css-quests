@@ -13,3 +13,7 @@ flex-wrap: wrap;
 flex-direction: column-reverse;
 align-content: center;
 ```
+
+# Next step
+
+[Link to next level](./level24.md) :muscle:

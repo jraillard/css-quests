@@ -11,3 +11,7 @@ Still practicing the `justify-content` property.
 ```css
 justify-content: center;
 ```
+
+# Next step
+
+[Link to next level](./level3.md) :muscle:

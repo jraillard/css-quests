@@ -1,4 +1,4 @@
-# Level 19 : flex-wrap
+# Level 18 : flex-wrap
 
 Introducing the `flex-wrap` property in order to **force items on a single line or wrap them in multiples** with several values : 
 - `nowrap`: Every item is fit to a single line.
@@ -14,3 +14,7 @@ Introducing the `flex-wrap` property in order to **force items on a single line 
 ```css
 flex-wrap: wrap;
 ```
+
+# Next step
+
+[Link to next level](./level19.md) :muscle:

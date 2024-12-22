@@ -11,3 +11,7 @@ Still practicing the `flex-direction` property.
 ```css
 flex-direction: column;
 ```
+
+# Next step
+
+[Link to next level](./level10.md) :muscle:

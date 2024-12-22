@@ -15,3 +15,7 @@ Combining `align-self` & `order` practicing.
     align-self: flex-end; // then just align vertically to the column end
 }
 ```
+
+# Next step
+
+[Link to next level](./level18.md) :muscle:

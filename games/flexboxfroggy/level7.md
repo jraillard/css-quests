@@ -12,3 +12,7 @@ Combining `justify-content` & `align-items` practicing.
 justify-content: space-around;
 align-items: flex-end;
 ```
+
+# Next step
+
+[Link to next level](./level8.md) :muscle:

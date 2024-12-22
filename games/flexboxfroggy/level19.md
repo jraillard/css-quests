@@ -12,3 +12,7 @@ Combining `flex-direction` & `flex-wrap` practicing.
 flex-direction: column;
 flex-wrap: wrap;
 ```
+
+# Next step
+
+[Link to next level](./level20.md) :muscle:

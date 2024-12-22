@@ -15,3 +15,7 @@ Introducing the `flex-direction` property in order to ***handle items order / di
 ```css
 flex-direction: row-reverse;
 ```
+
+# Next step
+
+[Link to next level](./level9.md) :muscle:

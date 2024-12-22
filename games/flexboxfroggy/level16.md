@@ -19,3 +19,7 @@ Introducing the `align-self` property in order to ***align only one item vertica
     align-self: flex-end;
 }
 ```
+
+# Next step
+
+[Link to next level](./level17.md) :muscle:

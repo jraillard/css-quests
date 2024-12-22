@@ -14,3 +14,7 @@ Combining `justify-content` & `align-items` practicing.
 justify-content: center;
 align-items: center;
 ```
+
+# Next step
+
+[Link to next level](./level7.md) :muscle:

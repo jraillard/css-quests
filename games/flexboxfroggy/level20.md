@@ -13,3 +13,7 @@ Introducing the `flex-flow` property in order to **combine flex-direction and fl
 ```css
 flex-flow: column wrap;
 ```
+
+# Next step
+
+[Link to next level](./level21.md) :muscle:
