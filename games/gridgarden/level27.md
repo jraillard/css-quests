@@ -46,8 +46,6 @@ would create a grid with two equals rows of one column 200px high.
 }
 ```
 
-:mag: Water is on last row (fifth one) so it should take all the remaining space, that's why other carots rows are 0fr. That way rows 2,3,4 of garden aren't displayed, only the last one with water is.
-
 # Next step
 
 [Link to next level](./level28.md) :muscle:
