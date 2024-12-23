@@ -13,8 +13,8 @@ Combining `align-self` & `order` practicing.
 ```css
 .yellow
 {
-    order: 1; // cause yellow to be on same lilypad column
-    align-self: flex-end; // then just align vertically to the column end
+    order: 1; /* cause yellow to be on same lilypad column */
+    align-self: flex-end; /* then just align vertically to the column end */
 }
 ```
 
