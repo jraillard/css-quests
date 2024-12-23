@@ -11,7 +11,9 @@ Introducing also the `justify-content` property in order to ***align items horiz
 
 # Exercise
 
-:clipboard: Frog is on the left, lilypad on the right. 
+![level 1](./level1.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

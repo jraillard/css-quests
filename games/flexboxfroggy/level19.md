@@ -4,7 +4,9 @@ Combining `flex-direction` & `flex-wrap` practicing.
 
 # Exercise
 
-:clipboard: Five frogs (1 yellow, 5 green, 1 red). All frogs are squeezed, lilypads are equally distributed on columns.
+![level 19](./level19.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

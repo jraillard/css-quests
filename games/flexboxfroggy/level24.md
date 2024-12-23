@@ -6,9 +6,11 @@ Three level of solutions are possible (with 4, 3 and 2 lines of code) :mag:
 
 # Exercise
 
-:clipboard: 7 frogs (1 red, 4 green, 2 yellow). Frog are squeezed when they are more than 5 in a row / column. Lillypad are : yellows on first column center, green and then red ony on last column
+![level 24](./level24.png)
 
-:bulb: Solution : 
+# Solution
+
+Let's explain go step by step :mag:
 
 First turn into columns (as the instructions implies).
 ```css

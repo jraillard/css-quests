@@ -4,7 +4,9 @@ Combining `flex-direction` & `align-content` practicing.
 
 # Exercise
 
-:clipboard: 15 frogs with same pattern (1 red, 3 green, 1 yellow) already wraped in 3 lines. Their lilypad are on three center column with reverse order (yellow, greends, red).
+![level 23](./level23.png)
+
+# Solution 
 
 :bulb: Basically just apply : 
 

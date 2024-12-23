@@ -4,7 +4,9 @@ Still practicing the `flex-direction` property.
 
 # Exercise
 
-:clipboard: Three frogs (green, yellow, red). Their lilypad on same column and same order.
+![level 9](./level9.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

@@ -9,7 +9,9 @@ Introducing the `align-items` property in order to ***align items vertically*** 
 
 # Exercise
 
-:clipboard: Three frogs: one green, one yellow and one red. They are spotted on top left of the container. Their own lilypad seems to be spoted in same order on bottom left from the container.
+![level 5](./level5.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

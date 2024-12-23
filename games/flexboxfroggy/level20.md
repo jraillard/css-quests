@@ -6,7 +6,11 @@ Introducing the `flex-flow` property in order to **combine flex-direction and fl
 
 # Exercise
 
-:clipboard: Same sample as exercise as [level 19](./level19.md)
+Same sample as exercise as [level 19](./level19.md) :eyes:
+
+![level 20](level20.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

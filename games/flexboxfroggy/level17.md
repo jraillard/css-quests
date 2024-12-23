@@ -4,7 +4,9 @@ Combining `align-self` & `order` practicing.
 
 # Exercise
 
-:clipboard: Five frogs (1 yellow, 1 green, 1 yellow and 2 green). Greens lilypad are on same row start, yellow are on last row end.
+![level 17](./level17.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

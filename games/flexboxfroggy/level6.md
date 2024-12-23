@@ -4,9 +4,11 @@ Combining `justify-content` & `align-items` practicing.
 
 # Exercise
 
-:clipboard: Only one frog on top left, his lilypad on container center.
+The famous question `How to center a div ?` :disappointed_relieved:
 
-&rarr; The famous question `How to center a div ?` :disappointed_relieved:
+![level 6](./level6.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

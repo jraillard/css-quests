@@ -4,7 +4,9 @@ Still practicing the `justify-content` property.
 
 # Exercise
 
-:clipboard: Three frogs this time : one green, one yellow and one red. Their own lilypad seems to be equally spaced between and also around.
+![level 3](level3.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

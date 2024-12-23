@@ -4,7 +4,9 @@ Combining `flex-direction` & `justify-content` practicing.
 
 # Exercise
 
-:clipboard: Three frogs (green, yellow, red). Their lilypad on same column, same order and spoted on the column-end.
+![level 11](./level11.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

@@ -4,7 +4,9 @@ Combining `justify-content` & `align-items` practicing.
 
 # Exercise
 
-:clipboard: Three frogs (green, yellow, red). Their lilypad on container bottom and spaced-around.
+![level 7](./level7.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

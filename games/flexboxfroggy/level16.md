@@ -9,7 +9,9 @@ Introducing the `align-self` property in order to ***align only one item vertica
 
 # Exercise
 
-:clipboard: Five frogs (2 green, 1 yellow and 2 green). Greens are well placed yellow one is on same column but bottom.
+![level 16](./level16.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

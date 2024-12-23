@@ -14,7 +14,9 @@ Introducing the `align-content` property in order to **managed space between mul
 
 # Exercise
 
-:clipboard: 15 green frogs already wraped in 3 lines. Their lilypad are on top of the container.
+![level 21](./level21.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

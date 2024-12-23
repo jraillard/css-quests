@@ -25,7 +25,7 @@ display: flex;
   - `column`: Items are placed top to bottom.
   - `column-reverse`: Items are placed bottom to top.
 
-- `order` property in order to ***appply individual order to one element***. Values can be both negative and positive integers. Default value is 0.
+- `order` property in order to ***apply individual order to one element***. Values can be both negative and positive integers. Default value is 0.
 
 - `align-self` property in order to ***align only one item vertically*** with same values as `align-items` : 
   - `flex-start`: Item align to the top of the container.

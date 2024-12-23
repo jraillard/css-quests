@@ -8,7 +8,9 @@ Introducing the `flex-direction` property in order to ***handle items order / di
 
 # Exercise
 
-:clipboard: Three frogs (green, yellow, red). Their lilypad on same row but starting from the end and in reverse order.
+![level 8](./level8.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

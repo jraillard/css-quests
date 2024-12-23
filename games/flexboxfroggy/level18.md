@@ -7,7 +7,9 @@ Introducing the `flex-wrap` property in order to **force items on a single line 
 
 # Exercise
 
-:clipboard: Five frogs (1 yellow, 5 green, 1 red). All frogs only seems to be squeezed.
+![level 18](./level18.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 

@@ -4,7 +4,9 @@ Combining `flex-direction` & `justify-content` & `align-items` practicing.
 
 # Exercise
 
-:clipboard: Three frogs (green, yellow, red). Their lilypad on last row, reverse order and centered.
+![level 13](./level13.png)
+
+# Solution
 
 :bulb: Basically just apply : 
 
