@@ -21,3 +21,7 @@ Here's the exhaustive educationnal games list :
 Here's a memos list containing all the css properties practiced : 
 
 - [Flexbox memo](./memos/flex.md)
+- [CSS units memo](./memos/units.md)
+- [Grid memo](./memos/grid.md)
+
+Also worth to mention, to [awesome-css github repo](https://github.com/awesome-css-group/awesome-css) gathering tons of frameworks, tools and advenced tips and tricks on css.
