@@ -12,6 +12,10 @@ Here's the exhaustive educationnal games list :
 
     &rarr;  Starting with [level 1](./games/flexboxfroggy/level1.md) :eyes:
 
+- [Grid Garden](https://codepip.com/games/grid-garden/) : Learn **grid basics** by maintining your garden
+
+    &rarr;  Starting with [level 1](./games/gridgarden/level1.md) :eyes:
+
 # Memos
 
 Here's a memos list containing all the css properties practiced : 
