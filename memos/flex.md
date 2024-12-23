@@ -1,6 +1,6 @@
 # Flexbox memo
 
-- `flex mode` &rarr; apply it to parent div / container to manage sub items
+- `flex mode` &rarr; apply it to parent div / container to manage sub items as one dimension (row **OR** column)
 ```css
 display: flex;
 ```
@@ -57,7 +57,7 @@ flex-flow: flexDirectionValue flexWrapValue
 
     :bulb: If there's for instance 3 lines and we apply align-items: center; then all the three lines would be centered vertically to the container. align-content: center; will cause three lines to be packed and then centered.
 
-`place-content` property in order to **combine justify-content and align-content into one single property**.
+- `place-content` property in order to **combine justify-content and align-content into one single property**.
 
 ```css
 place-content: justifyContentValue alignContentValue
